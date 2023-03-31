@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.edu.extendapp.animal","c":"Duck","l":"Duck()","url":"%3Cinit%3E()"},{"p":"com.edu.extendapp.animal","c":"Duck","l":"name"},{"p":"com.edu.extendapp.animal","c":"Duck","l":"walk()"}]
